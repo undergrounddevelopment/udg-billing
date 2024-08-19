@@ -11,4 +11,4 @@ receiver varchar(50) DEFAULT NULL,
 title varchar(50) DEFAULT NULL,
 type varchar(50) DEFAULT NULL,
 PRIMARY KEY (id)
-) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;```
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
